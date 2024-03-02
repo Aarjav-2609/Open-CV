@@ -13,24 +13,5 @@ Copy code
 pip install opencv-python
 # It's recommended to use a virtual environment to manage your dependencies.
 
-- Experiments
-Experiment 1: Expression Masking
-In this experiment, you will learn how to apply masking on an image using OpenCV and display it.
-
-Experiment 2: Histogram Generation
-In this experiment, you will learn how to generate a Histogram of an image using OpenCV and display it.
-
-Experiment 3: Black and White Dot Detection
-In this experiment, you will learn how to detect dots in an image, using thresholding and counting them using OpenCV and display them.
-
-Experiment 4: CDF-PDF Generation
-In this experiment, you will learn how to generate CDF and PDF plots of an image using OpenCV and display them.
-
-Experiment 5: Image Transformation
-In this experiment, you will learn how to use linear, bitwise, gray, and thresholding transformation of an image using OpenCV and display it.
-
-Experiment 6: Coming Soon
-
-
 Author: Aarjav Vajpayee
 Contact: aarjav2602@gmail.com
